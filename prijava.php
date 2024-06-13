@@ -25,6 +25,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST") {
 ?>
 <div class="prijava">
     <h2>prijavite se</h2>
+    <p>U edukativne svrhe za administracijske <br> permisije pristup je <strong>admin:admin</strong></p>
     <form action="" method="post">
         <div class="polje">
             <label for="username">Username</label>
